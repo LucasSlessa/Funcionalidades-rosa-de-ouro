@@ -37,7 +37,8 @@ A funcionalidade bate ponto pode seguir o seguinte fluxo dentro do registro de e
 | 9. Data Fim          | Informe a data de término        |
 | 10. Confirmar        | Pressione o botão "Confirmar"    |
 
-![[Pasted image 20250115103519.png]]
+![Imagem de exemplo](app.png)
+
 
 
 Basicamente o promotor inicia o evento ao iniciar a jornada de trabalho logo, e finaliza o evento a terminar a mesma, sendo que e possível ele repetir esse processo duas vezes no dia para registrar o horário de almoço.
@@ -54,7 +55,9 @@ Para verificar as atualizaçoes dos pontos pelo sistema web basta seguir o segui
 | 3. Selecionar Log de Evento | Apk Novo -> Evento log (Novo)                  |
 | 4. Data do evento           | Informe o periodo de data que deseja verificar |
 | 5. Selecionar colaborador   | Pressione o botão "Aplicar"                    |
-![[Pasted image 20250115104901.png]]
+
+![Imagem de exemplo](app1.png)
+
 
 Dentro de relatórios de eventos, é possível realizar filtros mais específicos, incluindo eventos automáticos, para um maior controle da garantia dos dados. Também é possível selecionar o evento a ser analisado e gerar um relatório em Excel desse evento.
 

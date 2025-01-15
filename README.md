@@ -64,3 +64,28 @@ Dentro de relatórios de eventos, é possível realizar filtros mais específico
 ---
 ### Deslocamento
 
+
+##### Aplicativo
+
+A funcionalidade deslocamento segue o seguinte fluxo dentro do aplicativo:
+
+| Passo                        | Ação                                                       |
+| ---------------------------- | ---------------------------------------------------------- |
+| 1. Acesso                    | Acesse o aplicativo                                        |
+| 2. Registrar Deslocamento    | Clique para iniciar o registro                             |
+| 3. Selecionar Veiculo        | Escolha o veiculo em uso                                   |
+| 4. Km inicial                | Selecione o km inicial                                     |
+| 5. Retirar foto comprovativa | Foto do hodômetro                                          |
+| 6. Iniciar Deslocamento      | Clique em "Iniciar Deslocamento"                           |
+| 7. Finalizar Deslocamento    | Insira km final, foto e clique em "Finalizar deslocamento" |
+
+
+![imagem deslocamento](deslocamentoapp.png) 
+
+A função de deslocamento pode ser utilizada como alternativa para calcular  a quantidade de Km percorridos dentro de um percurso, é importante se atentar que essa função pode ser ativa apenas entre as visitas, afim de calcular o tempo e distancia de deslocamento de um PDV a outro.
+
+--- 
+
+#### Sistema Web
+
+

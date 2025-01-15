@@ -88,4 +88,16 @@ A função de deslocamento pode ser utilizada como alternativa para calcular  a 
 
 #### Sistema Web
 
+A funcionalidade relatório de deslocamento segue o seguinte fluxo dentro do sistema:
 
+| Passo                 | Ação                                 |
+| --------------------- | ------------------------------------ |
+| 1. Acesso             | Acesse o Sistema                     |
+| 2. Menu relatórios    | Clique em relatorio de deslocamento  |
+| 3. Selecionar Filtros | Escolha os filtros para os dados     |
+| 4. Verificar fotos    | Clique no ícone de fotos             |
+| 5. Relatorios         | Utilize os botões "PDF" e ou "Excel" |
+
+![WEB DESLO](desloweb.png) 
+
+Nesta opção, é possível realizar algumas verificações, como a data de início, data de fim, quantidade de quilômetros rodados e valor total de gasto, considerando o valor inserido no cadastro do veículo em "custo por KM".

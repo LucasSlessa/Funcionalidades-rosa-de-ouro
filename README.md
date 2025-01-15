@@ -1,4 +1,4 @@
-Sistema [[Colaboradores]]  #implantaçao
+Sistema "Colaboradores"  #implantaçao
 
 ---
 Briefing reunião [[2025-01-15]]
@@ -12,7 +12,7 @@ Apresentação das funções urgentes
 
 
 - [x] Bate Ponto. ✅ 2025-01-15
-- [ ] Deslocamento.
+- [x] Deslocamento. ✅ 2025-01-15
 - [ ] Questionário vencimento.
 - [ ] Questionário Share de gondola.
 - [ ] Histórico disciplinar.
